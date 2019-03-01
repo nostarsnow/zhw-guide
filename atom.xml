@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>租号玩 - 前端代码规范</title>
+  
+  <subtitle>Front-End Coding Guidelines</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://www.zuhaowan.com/"/>
+  <updated>2019-02-18T08:54:00.928Z</updated>
+  <id>https://www.zuhaowan.com/</id>
+  
+  <author>
+    <name>nostar</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>更新历史</title>
+    <link href="https://www.zuhaowan.com/news/2019/02/15/released/"/>
+    <id>https://www.zuhaowan.com/news/2019/02/15/released/</id>
+    <published>2019-02-15T01:38:29.381Z</published>
+    <updated>2019-02-18T08:54:00.928Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="2019-02-18"><a href="#2019-02-18" class="headerlink" title="2019-02-18"></a>2019-02-18</h2><h3 id="特征"><a href="#特征" class="headerlink" title="特征"></a>特征</h3><ul><li>使用<strong>hexo</strong>作为指南的静态站点引擎。</li><li>使用<strong>jade</strong>处理模版文件。</li><li>使用<strong>gulp</strong>处理文件。</li><li>修复了快捷导航无法使用的bug。</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;2019-02-18&quot;&gt;&lt;a href=&quot;#2019-02-18&quot; class=&quot;headerlink&quot; title=&quot;2019-02-18&quot;&gt;&lt;/a&gt;2019-02-18&lt;/h2&gt;&lt;h3 id=&quot;特征&quot;&gt;&lt;a href=&quot;#特征&quot; class=&quot;headerli
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
