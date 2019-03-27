@@ -6,7 +6,7 @@
   <link href="/zhw-guide/atom.xml" rel="self"/>
   
   <link href="https://nostarsnow.github.io/zhw-guide/"/>
-  <updated>2019-02-18T08:54:00.928Z</updated>
+  <updated>2019-03-27T08:48:38.999Z</updated>
   <id>https://nostarsnow.github.io/zhw-guide/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="https://nostarsnow.github.io/zhw-guide/news/2019/02/15/released/"/>
     <id>https://nostarsnow.github.io/zhw-guide/news/2019/02/15/released/</id>
     <published>2019-02-15T01:38:29.381Z</published>
-    <updated>2019-02-18T08:54:00.928Z</updated>
+    <updated>2019-03-27T08:48:38.999Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="2019-02-18"><a href="#2019-02-18" class="headerlink" title="2019-02-18"></a>2019-02-18</h2><h3 id="特征"><a href="#特征" class="headerlink" title="特征"></a>特征</h3><ul><li>使用<strong>hexo</strong>作为指南的静态站点引擎。</li><li>使用<strong>jade</strong>处理模版文件。</li><li>使用<strong>gulp</strong>处理文件。</li><li>修复了快捷导航无法使用的bug。</li></ul>]]></content>
+    <content type="html"><![CDATA[<h2 id="2019-03-27"><a href="#2019-03-27" class="headerlink" title="2019-03-27"></a>2019-03-27</h2><h3 id="特征"><a href="#特征" class="headerlink" title="特征"></a>特征</h3><ul><li>更改css/scss规范为缩进<strong>两个</strong>空格</li></ul><h2 id="2019-02-18"><a href="#2019-02-18" class="headerlink" title="2019-02-18"></a>2019-02-18</h2><h3 id="特征-1"><a href="#特征-1" class="headerlink" title="特征"></a>特征</h3><ul><li>使用<strong>hexo</strong>作为指南的静态站点引擎。</li><li>使用<strong>jade</strong>处理模版文件。</li><li>使用<strong>gulp</strong>处理文件。</li><li>修复了快捷导航无法使用的bug。</li></ul>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;2019-02-18&quot;&gt;&lt;a href=&quot;#2019-02-18&quot; class=&quot;headerlink&quot; title=&quot;2019-02-18&quot;&gt;&lt;/a&gt;2019-02-18&lt;/h2&gt;&lt;h3 id=&quot;特征&quot;&gt;&lt;a href=&quot;#特征&quot; class=&quot;headerli
+        &lt;h2 id=&quot;2019-03-27&quot;&gt;&lt;a href=&quot;#2019-03-27&quot; class=&quot;headerlink&quot; title=&quot;2019-03-27&quot;&gt;&lt;/a&gt;2019-03-27&lt;/h2&gt;&lt;h3 id=&quot;特征&quot;&gt;&lt;a href=&quot;#特征&quot; class=&quot;headerli
       
     
     </summary>
